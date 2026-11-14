@@ -1,6 +1,6 @@
 # ==================== CONFIGURATION ====================
 $FirebaseURL = "https://zaq-pay-46916-default-rtdb.asia-southeast1.firebasedatabase.app/"
-$SecretKey = "ШинэТүлхүүр123" # <-- Өөрийн хүссэн түлхүүр (жишээ нь: ss123)
+$SecretKey = "1222" # <-- Өөрийн хүссэн түлхүүр (жишээ нь: ss123)
 $PCName = $env:COMPUTERNAME
 # =======================================================
 
